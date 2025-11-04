@@ -1,5 +1,5 @@
 <!-- ===== HEADER ===== -->
-# 👋 Hi, I’m **Muhammad Abbas Ali Rizvi**
+# 👋 Hi, I’m **Muhammad Abb@s**
 ### 💻 MERN Stack Developer | Web Designer | Front‑end & Back‑end Learner
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=480&lines=Hi+I'm+Muhammad+Abbas+Ali+Rizvi;Building+Modern+Web+Apps;Always+Learning+and+Sharing)](https://git.io/typing-svg)
@@ -15,13 +15,13 @@
 
 <!-- ===== ABOUT ME ===== -->
 ### 🎯 About Me  
-- 🌱 Currently learning **Advanced Java**, **React (MERN)** & **Firebase Firestore**  
+- 🌱 Currently learning **MERN_STACK DEVLOMENT**, **Mogo-db** & **PHP**  
 - 💡 Passionate about building **interactive web applications** and **UX‑driven designs**  
-- ✅ Completed: Matriculation, Diploma in ACCP, Enrolled in DAE (CIT) 1st year  
+- ✅ Completed: Matriculation, Diploma in ACCP, Enrolled in DAE (CIT) 2nd year  
 - 🧑‍💻 Developer stack: HTML • CSS • JS • PHP • React • Node.js • MongoDB  
 - 📫 How to reach me:  
-  - Portfolio 1: [protfoloi.netlify.app](https://protfoloi.netlify.app/#home)  
-  - Portfolio 2: [asmit1.netlify.app](https://asmit1.netlify.app/)  
+  - Portfolio : [protfoloi.netlify.app](https://protfoloi.netlify.app/#home)  
+  - Project : [asmit1.netlify.app](https://asmit1.netlify.app/)  
   - LinkedIn: [Muhammad Abbas](https://www.linkedin.com/in/muhammad-abbas-708bb3366/)
 
 ---
@@ -35,8 +35,8 @@
 
 <!-- ===== PROJECTS HIGHLIGHT ===== -->
 ### 📌 Featured Projects  
+- [Project ](https://asmit1.netlify.app/) – Web app showcase  
 - [Portfolio 1](https://protfoloi.netlify.app/#home) – Modern personal portfolio  
-- [Portfolio 2](https://asmit1.netlify.app/) – Web app showcase  
 
 ---
 
