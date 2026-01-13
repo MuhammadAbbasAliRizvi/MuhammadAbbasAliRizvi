@@ -1,13 +1,15 @@
 <h1 align="center">
-✨ <span style="color:#00C2FF">Muhammad Abbas</span> ✨
+  <span style="color:#00C2FF; font-size:42px; font-weight:bold;">
+    MUHAMMAD ABBAS
+  </span>
 </h1>
 
 <h3 align="center">
-MERN Stack Developer | Web Designer | Frontend & Backend Developer
+  MERN Stack Developer | Full Stack Web Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+and+Improving;Open+to+Collaboration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Open+to+Collaboration+%26+Opportunities" />
 </p>
 
 <p align="center">
@@ -18,94 +20,86 @@ MERN Stack Developer | Web Designer | Frontend & Backend Developer
 
 ## About Me
 
-I am a motivated **MERN Stack Developer** with a strong foundation in frontend and backend development.  
-I focus on building scalable, clean, and user-centric web applications while continuously improving my skills.
+I’m a passionate **MERN Stack Developer** specializing in building modern, scalable, and user-focused web applications.  
+I enjoy turning complex ideas into clean, efficient, and high-performance digital solutions.
 
-- Currently learning MERN Stack, MongoDB, and PHP  
-- Strong focus on UI quality, performance, and best practices  
-- Education: Matriculation, Diploma in ACCP, DAE (CIT) 2nd Year  
-- Actively seeking internships and junior developer opportunities  
+- **Currently Learning:** Advanced MERN Stack, MongoDB optimization, PHP frameworks  
+- **Education:** Matriculation | Diploma in ACCP | DAE (CIT) 2nd Year  
+- **Core Focus:** Full-stack development, REST APIs, responsive UI  
+- **Goal:** Grow as a professional developer and contribute to impactful products  
 
 ---
 
 ## Tech Stack
 
-### Frontend
+### Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
 </p>
 
-### Backend
+### Backend Development
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/>
 </p>
 
 ### Databases
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
 </p>
 
-### Tools
+### Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60"/>
 </p>
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAbbasAliRizvi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=MuhammadAbbasAliRizvi&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadAbbasAliRizvi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbbasAliRizvi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbbasAliRizvi&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=MuhammadAbbasAliRizvi&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## Featured Projects
 
-### 🚀 Project Showcase
-<p>
-  A modern web application focused on clean UI/UX and smooth animations.
-</p>
+### 🚀 Project Showcase  
+🔗 **Live Demo:** https://asmit1.netlify.app/
 
-<p>
-  <a href="https://asmit1.netlify.app/">
-    <img src="https://img.shields.io/badge/Live%20Preview-00C2FF?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/UI%2FUX-Animated-success?style=for-the-badge"/>
-</p>
+```javascript
+// Modern Web Application
+const features = [
+  "Responsive Design",
+  "Interactive UI/UX",
+  "Clean Code Architecture",
+  "Optimized Performance"
+];
+A modern web application demonstrating clean UI, smooth animations, and performance-focused development.
 
----
+💼 Professional Portfolio
+🔗 View Portfolio: https://protfoloi.netlify.app/#home
 
-### 🎨 Portfolio Website
-<p>
-  Responsive personal portfolio showcasing skills, projects, and experience.
-</p>
+html
+Copy code
+<!-- Personal Portfolio Structure -->
+<section id="projects"></section>
+<section id="skills"></section>
+<section id="contact"></section>
+A fully responsive portfolio showcasing skills, projects, and professional growth with smooth navigation and animations.
 
-<p>
-  <a href="https://protfoloi.netlify.app/#home">
-    <img src="https://img.shields.io/badge/View%20Portfolio-00C2FF?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge"/>
-</p>
-
----
-
-## Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/muhammad-abbas-708bb3366/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MuhammadAbbasAliRizvi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoCol
+Connect With Me
+<p> <a href="https://www.linkedin.com/in/muhammad-abbas-708bb3366/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/MuhammadAbbasAliRizvi" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://protfoloi.netlify.app/#home" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=netlify&logoColor=white"/> </a> </p>
+<p align="center"> <i> Transforming ideas into functional, elegant web solutions through clean code and continuous learning. </i> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=footer"/> </p> ```
