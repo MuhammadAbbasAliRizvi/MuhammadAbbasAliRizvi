@@ -1,56 +1,76 @@
-Muhammad Abbas
-MERN Stack Developer | Web Designer
-https://komarev.com/ghpvc/?username=MuhammadAbbasAliRizvi&color=blue&style=flat
+# Muhammad Abbas Ali Rizvi  
+### MERN Stack Developer | Web Designer | Frontend & Backend Developer
 
-About Me
-I am a MERN Stack Developer with a focus on building modern, responsive web applications. Currently expanding my expertise in full-stack development through continuous learning and practical projects. I am passionate about creating intuitive user experiences and robust backend systems.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C2FF&width=480&lines=MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+and+Improving;Open+to+Collaboration)](https://git.io/typing-svg)
 
-Currently Learning: MERN Stack Development, MongoDB, and PHP
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAbbasAliRizvi&color=00C2FF&style=flat-square)
 
-Education: Matriculation, Diploma in ACCP, Currently pursuing DAE (CIT) 2nd Year
+---
 
-Technical Focus: Full-stack web development with emphasis on clean architecture and user-centric design
+## About Me
 
-Approach: Combining technical proficiency with attention to detail to deliver high-quality software solutions
+I am a motivated MERN Stack Developer with a strong foundation in frontend and backend web development.  
+I enjoy building scalable, user-focused web applications and continuously improving my technical skills.
 
-Tech Stack
-Frontend
-https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat
-https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat
-https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat
-https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat
+- Currently learning MERN Stack, MongoDB, and PHP  
+- Focused on clean UI, performance, and best practices  
+- Education: Matriculation, Diploma in ACCP, Enrolled in DAE (CIT) 2nd Year  
+- Interested in internships and junior developer roles  
 
-Backend
-https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat
-https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat
+---
 
-Databases
-https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat
-https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=flat
+## Tech Stack
 
-Tools
-https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat
-https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visualstudiocode&logoColor=white&style=flat
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-GitHub Statistics
-https://github-readme-stats.vercel.app/api?username=MuhammadAbbasAliRizvi&show_icons=true&count_private=true&theme=default&hide_border=true
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-https://streak-stats.demolab.com/?user=MuhammadAbbasAliRizvi&theme=default&hide_border=true
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbbasAliRizvi&layout=compact&theme=default&hide_border=true
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Featured Projects
-Project Showcase
-Web application portfolio featuring modern UI/UX design and interactive elements
+---
 
-https://img.shields.io/badge/Live_Demo-00C2FF?logo=netlify&logoColor=white&style=flat
+## GitHub Stats
 
-Professional Portfolio
-Modern personal portfolio with responsive design and project presentation
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAbbasAliRizvi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 
-https://img.shields.io/badge/View_Portfolio-00C2FF?logo=netlify&logoColor=white&style=flat
+![GitHub Streak](https://streak-stats.demolab.com/?user=MuhammadAbbasAliRizvi&theme=tokyonight&hide_border=true)
 
-Connect With Me
-https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat
-https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbbasAliRizvi&layout=compact&theme=tokyonight&hide_border=true)
 
+---
+
+## Featured Projects
+
+### Project Showcase  
+A modern web application showcasing UI/UX-focused projects.  
+🔗 https://asmit1.netlify.app/
+
+### Portfolio Website  
+Responsive personal portfolio highlighting skills and projects.  
+🔗 https://protfoloi.netlify.app/#home
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abbas-708bb3366/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadAbbasAliRizvi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=netlify&logoColor=white)](https://protfoloi.netlify.app/#home)
+
+---
+
+> "Focused on writing clean code, building real-world projects, and growing as a full-stack developer."
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer)
