@@ -23,16 +23,16 @@
 Main aik **passionate MERN Stack Developer** hoon jo modern, scalable aur user-focused web applications banata hai.  
 Mujhe clean code, smooth UI aur real-world problem solving pasand hai.
 
-- 🌱 **Currently Learning:** Advanced MERN Stack, MongoDB Optimization, PHP Frameworks  
-- 🎓 **Education:** Matriculation | Diploma in ACCP | DAE (CIT) 2nd Year  
-- 💡 **Core Focus:** Full-Stack Development, REST APIs, Responsive UI  
-- 🎯 **Goal:** Professional developer banna aur impactful products par kaam karna  
+-  Currently Learning: Advanced MERN Stack, MongoDB Optimization, PHP Frameworks  
+-  Education: Matriculation | Diploma in ACCP | DAE (CIT) 2nd Year  
+-  Core Focus: Full-Stack Development, REST APIs, Responsive UI  
+-  Goal: Professional developer banna aur impactful products par kaam karna  
 
 ---
 
-## 🛠 Tech Stack
-
-### Frontend
+   Tech Stack
+ 
+   Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
@@ -61,9 +61,9 @@ Mujhe clean code, smooth UI aur real-world problem solving pasand hai.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌐 Modern Web Application
+###  Modern Web Application
 🔗 **Live Demo:** https://asmit1.netlify.app/  
 🔗 **GitHub Repo:** https://github.com/MuhammadAbbasAliRizvi  
 
@@ -75,7 +75,7 @@ Mujhe clean code, smooth UI aur real-world problem solving pasand hai.
 
 ---
 
-### 💼 Professional Portfolio
+###  Professional Portfolio
 🔗 **Live Demo:** https://protfoloi.netlify.app/#home  
 🔗 **GitHub Repo:** https://github.com/MuhammadAbbasAliRizvi  
 
