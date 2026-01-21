@@ -18,53 +18,79 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
-I’m a passionate **MERN Stack Developer** specializing in building modern, scalable, and user-focused web applications.  
-I enjoy turning complex ideas into clean, efficient, and high-performance digital solutions.
+Main aik **passionate MERN Stack Developer** hoon jo modern, scalable aur user-focused web applications banata hai.  
+Mujhe clean code, smooth UI aur real-world problem solving pasand hai.
 
-- **Currently Learning:** Advanced MERN Stack, MongoDB optimization, PHP frameworks  
-- **Education:** Matriculation | Diploma in ACCP | DAE (CIT) 2nd Year  
-- **Core Focus:** Full-stack development, REST APIs, responsive UI  
-- **Goal:** Grow as a professional developer and contribute to impactful products  
+- 🌱 **Currently Learning:** Advanced MERN Stack, MongoDB Optimization, PHP Frameworks  
+- 🎓 **Education:** Matriculation | Diploma in ACCP | DAE (CIT) 2nd Year  
+- 💡 **Core Focus:** Full-Stack Development, REST APIs, Responsive UI  
+- 🎯 **Goal:** Professional developer banna aur impactful products par kaam karna  
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-### Frontend Development
+### Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
 </p>
 
-### Backend Development
+### Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/>
 </p>
 
 ### Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
 </p>
 
-### Tools & Platforms
+### Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="55"/>
 </p>
 
 ---
 
-## GitHub Statistics
+## 🚀 Featured Projects
+
+### 🌐 Modern Web Application
+🔗 **Live Demo:** https://asmit1.netlify.app/  
+🔗 **GitHub Repo:** https://github.com/MuhammadAbbasAliRizvi  
+
+**Key Features**
+- Fully responsive design
+- Interactive & modern UI/UX
+- Clean and scalable code structure
+- Performance-optimized frontend
+
+---
+
+### 💼 Professional Portfolio
+🔗 **Live Demo:** https://protfoloi.netlify.app/#home  
+🔗 **GitHub Repo:** https://github.com/MuhammadAbbasAliRizvi  
+
+**Highlights**
+- Responsive portfolio layout
+- Smooth animations & navigation
+- Skills, projects & experience showcase
+- Modern professional UI design
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadAbbasAliRizvi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadAbbasAliRizvi&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbbasAliRizvi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -74,32 +100,24 @@ I enjoy turning complex ideas into clean, efficient, and high-performance digita
 
 ---
 
-## Featured Projects
+## 🤝 Connect With Me
 
-### 🚀 Project Showcase  
-🔗 **Live Demo:** https://asmit1.netlify.app/
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-abbas-708bb3366/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MuhammadAbbasAliRizvi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://protfoloi.netlify.app/#home" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+</p>
 
-```javascript
-// Modern Web Application
-const features = [
-  "Responsive Design",
-  "Interactive UI/UX",
-  "Clean Code Architecture",
-  "Optimized Performance"
-];
-A modern web application demonstrating clean UI, smooth animations, and performance-focused development.
+<p align="center">
+  <i>Transforming ideas into functional, elegant web solutions through clean code and continuous learning.</i>
+</p>
 
-💼 Professional Portfolio
-🔗 View Portfolio: https://protfoloi.netlify.app/#home
-
-html
-Copy code
-<!-- Personal Portfolio Structure -->
-<section id="projects"></section>
-<section id="skills"></section>
-<section id="contact"></section>
-A fully responsive portfolio showcasing skills, projects, and professional growth with smooth navigation and animations.
-
-Connect With Me
-<p> <a href="https://www.linkedin.com/in/muhammad-abbas-708bb3366/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/MuhammadAbbasAliRizvi" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://protfoloi.netlify.app/#home" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=netlify&logoColor=white"/> </a> </p>
-<p align="center"> <i> Transforming ideas into functional, elegant web solutions through clean code and continuous learning. </i> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=footer"/> </p> ```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=footer"/>
+</p>
