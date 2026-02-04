@@ -64,7 +64,7 @@ Mujhe clean code, smooth UI aur real-world problem solving pasand hai.
 ##  Featured Projects
 
 ###  Modern Web Application
-🔗 **Live Demo:** https://asmit1.netlify.app/  
+🔗 **Live Demo:**  https://arytech-clone.netlify.app/
 🔗 **GitHub Repo:** https://github.com/MuhammadAbbasAliRizvi  
 
 **Key Features**
@@ -76,7 +76,7 @@ Mujhe clean code, smooth UI aur real-world problem solving pasand hai.
 ---
 
 ###  Professional Portfolio
-🔗 **Live Demo:** https://protfoloi.netlify.app/#home  
+🔗 **Live Demo:** https://protfolio110.netlify.app/#home  
 🔗 **GitHub Repo:** https://github.com/MuhammadAbbasAliRizvi  
 
 **Highlights**
