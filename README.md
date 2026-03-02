@@ -20,8 +20,8 @@
 
 ## 👋 About Me
 
-Main aik **passionate MERN Stack Developer** hoon jo modern, scalable aur user-focused web applications banata hai.  
-Mujhe clean code, smooth UI aur real-world problem solving pasand hai.
+I am a **passionate MERN Stack Developer** who builds modern, scalable, and user-focused web applications.  
+I enjoy writing clean code, creating smooth user interfaces, and solving real-world problems.
 
 -  Currently Learning: Advanced MERN Stack, MongoDB Optimization, PHP Frameworks  
 -  Education: Matriculation | Diploma in ACCP | DAE (CIT) 2nd Year  
