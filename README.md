@@ -64,7 +64,7 @@ I enjoy writing clean code, creating smooth user interfaces, and solving real-wo
 ##  Featured Projects
 
 ###  Modern Web Application
-🔗 **Live Demo:**  https://arytech-clone.netlify.app/
+🔗 **Live Demo:**  https://bazu.netlify.app/
 🔗 **GitHub Repo:** https://github.com/MuhammadAbbasAliRizvi  
 
 **Key Features**
